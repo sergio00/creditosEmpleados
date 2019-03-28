@@ -12,6 +12,18 @@
          "jefeInmediato":"Xavier",
          "userRol":"ADMIN",
          "empresa":"Contyleg"
+      },
+      {
+         "id":"2",
+         "name":"Jose",
+         "modulos":[
+            "Solicitud",
+            "Datos Usuario"
+         ],
+         "puesto":"analista",
+         "jefeInmediato":"Xavier",
+         "userRol":"EMPLEADO",
+         "empresa":"Contyleg"
       }
    ],
    "comments":[
