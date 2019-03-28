@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Sergio",
       "modulos": ["Politicas","Solicitud", "Datos Usuario"],
       "puesto": "analista",
       "jefeInmediato": "Xavier",
       "userRol": "ADMIN",
       "empresa":"Contyleg"
-    },
+    }
   ],
   "comments": [
     {
