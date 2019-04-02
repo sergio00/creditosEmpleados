@@ -4,9 +4,9 @@
          "id":"1",
          "name":"Sergio",
          "modulos":[
-            "Políticas",
-            "Solicitud",
-            "Datos Usuario"
+            "Administración de Políticas",
+            "Solicitud de Préstamo",
+            "Datos Financiero"
          ],
          "puesto":"analista",
          "jefeInmediato":"Xavier",
@@ -18,7 +18,7 @@
          "name":"Jose",
          "modulos":[
             "Solicitud",
-            "Datos Usuario"
+            "Datos Financiero"
          ],
          "puesto":"analista",
          "jefeInmediato":"Xavier",
