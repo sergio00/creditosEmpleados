@@ -4,9 +4,21 @@
          "id":"1",
          "name":"Sergio",
          "modulos":[
-            "Administración de Políticas",
-            "Solicitud de Préstamo",
-            "Datos Financiero"
+            {
+               "id":"1",
+               "nombre":"Administración de Políticas",
+               "icon":"fas fa-users-cog"
+            },
+            {
+               "id":"2",
+               "nombre":"Solicitud de Préstamo",
+               "icon":"fas fa-dollar-sign"
+            },
+            {
+               "id":"3",
+               "nombre":"Datos Financiero",
+               "icon":"fas fa-male"
+            }
          ],
          "puesto":"analista",
          "jefeInmediato":"Xavier",
@@ -17,8 +29,16 @@
          "id":"2",
          "name":"Jose",
          "modulos":[
-            "Solicitud",
-            "Datos Financiero"
+            {
+               "id":"2",
+               "nombre":"Solicitud de Préstamo",
+               "icon":"fas fa-dollar-sign"
+            },
+            {
+               "id":"3",
+               "nombre":"Datos Financiero",
+               "icon":"fas fa-male"
+            }
          ],
          "puesto":"analista",
          "jefeInmediato":"Xavier",
