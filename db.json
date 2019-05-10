@@ -27,7 +27,19 @@
 				{
 					"id": "3",
 					"nombre": "Datos Financiero",
-					"icon": "fas fa-male"
+					"icon": "fas fa-male",
+					"submodulos": {
+						"name": "menuSubmodule",
+						"items": [{
+								"id": "1",
+								"nombre": "Políticas"
+							},
+							{
+								"id": "2",
+								"nombre": "Parámetros"
+							}
+						]
+					}
 				}
 			],
 			"puesto": "analista",
