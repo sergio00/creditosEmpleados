@@ -1,64 +1,72 @@
 {
-   "users":[
-      {
-         "id":"1",
-         "name":"Sergio",
-         "modulos":[
-            {
-               "id":"1",
-               "nombre":"Administración de Políticas",
-               "icon":"fas fa-users-cog"
-            },
-            {
-               "id":"2",
-               "nombre":"Solicitud de Préstamo",
-               "icon":"fas fa-dollar-sign"
-            },
-            {
-               "id":"3",
-               "nombre":"Datos Financiero",
-               "icon":"fas fa-male"
-            }
-         ],
-         "puesto":"analista",
-         "jefeInmediato":"Xavier",
-         "userRol":"ADMIN",
-         "empresa":"Contyleg"
-      },
-      {
-         "id":"2",
-         "name":"Jose",
-         "modulos":[
-            {
-               "id":"2",
-               "nombre":"Solicitud de Préstamo",
-               "icon":"fas fa-dollar-sign"
-            },
-            {
-               "id":"3",
-               "nombre":"Datos Financiero",
-               "icon":"fas fa-male"
-            }
-         ],
-         "puesto":"analista",
-         "jefeInmediato":"Xavier",
-         "userRol":"EMPLEADO",
-         "empresa":"Contyleg"
-      }
-   ],
-   "comments":[
-      {
-         "id":1,
-         "body":"some comment",
-         "postId":1
-      },
-      {
-         "id":2,
-         "body":"some comment",
-         "postId":1
-      }
-   ],
-   "profile":{
-      "name":"typicode"
-   }
+	"users": [{
+			"id": "1",
+			"name": "Sergio",
+			"modulos": [{
+					"id": "1",
+					"nombre": "Administración de Políticas",
+					"icon": "fas fa-users-cog",
+					"submodulos": {
+						"name": "menuSubmodule",
+						"items": [{
+								"id": "1",
+								"nombre": "Políticas"
+							},
+							{
+								"id": "2",
+								"nombre": "Parámetros"
+							}
+						]
+					}
+				},
+				{
+					"id": "2",
+					"nombre": "Solicitud de Préstamo",
+					"icon": "fas fa-dollar-sign"
+				},
+				{
+					"id": "3",
+					"nombre": "Datos Financiero",
+					"icon": "fas fa-male"
+				}
+			],
+			"puesto": "analista",
+			"jefeInmediato": "Xavier",
+			"userRol": "ADMIN",
+			"empresa": "Contyleg"
+		},
+		{
+			"id": "2",
+			"name": "Jose",
+			"modulos": [{
+					"id": "2",
+					"nombre": "Solicitud de Préstamo",
+					"icon": "fas fa-dollar-sign"
+				},
+				{
+					"id": "3",
+					"nombre": "Datos Financiero",
+					"icon": "fas fa-male"
+				}
+			],
+			"puesto": "analista",
+			"jefeInmediato": "Xavier",
+			"userRol": "EMPLEADO",
+			"empresa": "Contyleg"
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
