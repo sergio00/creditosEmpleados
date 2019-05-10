@@ -29,7 +29,7 @@
 					"nombre": "Datos Financiero",
 					"icon": "fas fa-male",
 					"submodulos": {
-						"name": "menuSubmodule",
+						"name": "menuSubmodule2",
 						"items": [{
 								"id": "1",
 								"nombre": "Políticas"
