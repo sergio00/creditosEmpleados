@@ -32,11 +32,11 @@
 						"name": "menuSubmodule2",
 						"items": [{
 								"id": "1",
-								"nombre": "Políticas"
+								"nombre": "Estado de Cuenta"
 							},
 							{
 								"id": "2",
-								"nombre": "Parámetros"
+								"nombre": "Historial de Préstamos"
 							}
 						]
 					}
