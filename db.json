@@ -45,7 +45,8 @@
 			"puesto": "analista",
 			"jefeInmediato": "Xavier",
 			"userRol": "ADMIN",
-			"empresa": "Contyleg"
+			"empresa": "Contyleg",
+			"codigoEmpresa": 5
 		},
 		{
 			"id": "2",
@@ -64,7 +65,8 @@
 			"puesto": "analista",
 			"jefeInmediato": "Xavier",
 			"userRol": "EMPLEADO",
-			"empresa": "Contyleg"
+			"empresa": "Contyleg",
+			"codigoEmpresa": 5
 		}
 	],
 	"comments": [{
