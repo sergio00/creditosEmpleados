@@ -1,7 +1,8 @@
 {
 	"users": [{
 			"id": "1",
-			"name": "MONCAYO PIONCE SERGIO XAVIER",
+			"name" : "Sergio",
+			"nombreCompleto": "MONCAYO PIONCE SERGIO XAVIER",
 			"modulos": [{
 					"id": "1",
 					"nombre": "Administración",
